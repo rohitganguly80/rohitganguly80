@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Ganguly
-- 👀 I’m interested in web development.
+- 👀 I’m interested in java development.
 - 🌱 I’m currently learning html , css , javascript and some frameworks.
 - 📫 How to reach me
 - **Email**: rohitganguly80@gmail.com
